@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\bin\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.exe
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\bin\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.deps.json
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\bin\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\bin\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.dll
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\bin\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.pdb
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.dll
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\refint\Hafta4_4_BasitProgressOrnegi.dll
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.pdb
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\Hafta4_4_BasitProgressOrnegi.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta4_4_BasitProgressOrnegi\obj\Debug\net6.0-windows\ref\Hafta4_4_BasitProgressOrnegi.dll

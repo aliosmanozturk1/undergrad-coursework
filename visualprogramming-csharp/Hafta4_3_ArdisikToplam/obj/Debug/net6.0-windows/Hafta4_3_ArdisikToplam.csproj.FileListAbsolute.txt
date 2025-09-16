@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\bin\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.exe
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\bin\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.deps.json
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\bin\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\bin\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.dll
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\bin\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.pdb
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.dll
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\refint\Hafta4_3_ArdisikToplam.dll
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.pdb
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\Hafta4_3_ArdisikToplam.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta4_3_ArdisikToplam\obj\Debug\net6.0-windows\ref\Hafta4_3_ArdisikToplam.dll

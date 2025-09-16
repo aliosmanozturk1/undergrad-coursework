@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\bin\Debug\net6.0-windows\Hafta4_1_Thread.exe
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\bin\Debug\net6.0-windows\Hafta4_1_Thread.deps.json
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\bin\Debug\net6.0-windows\Hafta4_1_Thread.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\bin\Debug\net6.0-windows\Hafta4_1_Thread.dll
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\bin\Debug\net6.0-windows\Hafta4_1_Thread.pdb
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.dll
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\refint\Hafta4_1_Thread.dll
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.pdb
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\Hafta4_1_Thread.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta4_1_Thread\obj\Debug\net6.0-windows\ref\Hafta4_1_Thread.dll

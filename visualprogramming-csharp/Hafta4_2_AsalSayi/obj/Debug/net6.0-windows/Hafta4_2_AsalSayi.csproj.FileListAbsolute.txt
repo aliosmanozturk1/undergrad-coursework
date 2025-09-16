@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\bin\Debug\net6.0-windows\Hafta4_2_AsalSayi.exe
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\bin\Debug\net6.0-windows\Hafta4_2_AsalSayi.deps.json
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\bin\Debug\net6.0-windows\Hafta4_2_AsalSayi.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\bin\Debug\net6.0-windows\Hafta4_2_AsalSayi.dll
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\bin\Debug\net6.0-windows\Hafta4_2_AsalSayi.pdb
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.dll
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\refint\Hafta4_2_AsalSayi.dll
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.pdb
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\Hafta4_2_AsalSayi.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta4_2_AsalSayi\obj\Debug\net6.0-windows\ref\Hafta4_2_AsalSayi.dll

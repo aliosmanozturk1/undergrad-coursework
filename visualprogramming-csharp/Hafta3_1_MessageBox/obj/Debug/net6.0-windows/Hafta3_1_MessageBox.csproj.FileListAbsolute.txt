@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\bin\Debug\net6.0-windows\Hafta3_1_MessageBox.exe
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\bin\Debug\net6.0-windows\Hafta3_1_MessageBox.deps.json
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\bin\Debug\net6.0-windows\Hafta3_1_MessageBox.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\bin\Debug\net6.0-windows\Hafta3_1_MessageBox.dll
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\bin\Debug\net6.0-windows\Hafta3_1_MessageBox.pdb
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.dll
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\refint\Hafta3_1_MessageBox.dll
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.pdb
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\Hafta3_1_MessageBox.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta3_1_MessageBox\obj\Debug\net6.0-windows\ref\Hafta3_1_MessageBox.dll

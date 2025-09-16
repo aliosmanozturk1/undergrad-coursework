@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hafta4_2_AsalSayi/1.0.0": {
+        "runtime": {
+          "Hafta4_2_AsalSayi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hafta4_2_AsalSayi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

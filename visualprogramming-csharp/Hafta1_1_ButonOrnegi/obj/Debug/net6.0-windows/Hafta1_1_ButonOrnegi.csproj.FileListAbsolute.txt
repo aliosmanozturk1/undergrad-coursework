@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\bin\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.exe
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\bin\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.deps.json
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\bin\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\bin\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.dll
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\bin\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.pdb
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.dll
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\refint\Hafta1_1_ButonOrnegi.dll
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.pdb
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\Hafta1_1_ButonOrnegi.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta1_1_ButonOrnegi\obj\Debug\net6.0-windows\ref\Hafta1_1_ButonOrnegi.dll

@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\bin\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.exe
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\bin\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.deps.json
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\bin\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\bin\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.dll
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\bin\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.pdb
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.dll
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\refint\Hafta2_2_NotHesaplayici.dll
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.pdb
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\Hafta2_2_NotHesaplayici.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta2_2_NotHesaplayici\obj\Debug\net6.0-windows\ref\Hafta2_2_NotHesaplayici.dll

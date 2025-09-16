@@ -1,0 +1,17 @@
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\bin\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.exe
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\bin\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.deps.json
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\bin\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.runtimeconfig.json
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\bin\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.dll
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\bin\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.pdb
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI_Hesaplayici.Form1.resources
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.csproj.GenerateResource.cache
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.AssemblyInfoInputs.cache
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.AssemblyInfo.cs
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.dll
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\refint\Hafta2_3_VKI-Hesaplayici.dll
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.pdb
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\Hafta2_3_VKI-Hesaplayici.genruntimeconfig.cache
+C:\Users\developeralioz\source\repos\Hafta2_3_VKI-Hesaplayici\obj\Debug\net6.0-windows\ref\Hafta2_3_VKI-Hesaplayici.dll
